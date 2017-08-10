@@ -1,2 +1,2 @@
 # Alertmanager
-Add Mysql connectivity  to the github/prometheus
+Add Mysql connectivity  to the github/prometheus/alertmanager
